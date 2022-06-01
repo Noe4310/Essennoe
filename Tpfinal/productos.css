@@ -1,0 +1,14 @@
+body{
+  background-image: img\fondoessen.webp;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  font-family: sans-serif, 'Noto Sans';
+  background-color: black;
+  }
+
+  .pie {
+    clear: both;
+    padding: 20px;
+    background: #ccc0aa;
+  }
